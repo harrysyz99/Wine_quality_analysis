@@ -1,4 +1,4 @@
-# Wine_quality_analysis
+# Wine_type_analysis
 ---
 ## Author: Harry Zhang 
 ### Language: Python
