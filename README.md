@@ -4,9 +4,6 @@
 ### Language: Python
 
 
-### Summary:
-
-
 ### Dataset Discription:
 Detail please look at the [kaggle](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
 
